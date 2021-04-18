@@ -1,0 +1,30 @@
+.Tags {
+    background-color: rgb(68, 68, 68);
+    justify-content: center ;
+    /* height: 550 !important; */
+}
+
+.container{
+    /* background-color: black;
+    padding: 150px ; */
+    box-shadow: inset;
+}
+
+/* .tagDetails{
+    justify-content: center !important;
+    align-items: center;
+    margin: 10;
+    background-color: lightcoral;
+    margin: 0 auto;
+} */
+.bold{
+    font-weight: bold;
+    /* color: black; */
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.Sticky {
+    margin-top: 100px;
+}
